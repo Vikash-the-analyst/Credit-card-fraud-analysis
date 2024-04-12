@@ -1,5 +1,4 @@
 # Credit-card-fraud-analysis
-Codsoft internship-projects
 
 This project mainly focuses on handling imbalanced datasets and detecting credit-card frauds using Following Machine Learning Algorithms:
 
